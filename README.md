@@ -27,7 +27,7 @@ O objetivo principal é criar uma API funcional com as seguintes característica
 └── README.md           # Este arquivo
 ```
 
-## Como Executar Localmente
+
 
 1.  **Clone o repositório:**
     ```bash
@@ -45,7 +45,7 @@ O objetivo principal é criar uma API funcional com as seguintes característica
     *   `curl http://localhost:8000/books/1`
     *   `curl -X POST -H "Content-Type: application/json" -d '{"title": "Novo Livro", "author": "Autor Desconhecido"}' http://localhost:8000/books`
 
-## Configuração do CI/CD e Deploy no Render
+
 
 O arquivo `.github/workflows/main.yml` contém a configuração do GitHub Actions.
 
