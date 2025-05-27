@@ -1,0 +1,2 @@
+# No external dependencies required for this project.
+# This file is included for compatibility with deployment platforms like Render.
